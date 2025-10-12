@@ -5,3 +5,4 @@
 number = input("Enter a number: ")
 
 print("You Entered", number)
+print(f'User has given this number: {number}')
