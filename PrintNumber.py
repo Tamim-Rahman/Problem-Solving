@@ -2,5 +2,6 @@
 
 #Solution
 
-a=10
-print("The number is", a)
+number = input("Enter a number: ")
+
+print("You Entered", number)
