@@ -3,4 +3,4 @@
 #Solution
 
 a=10
-print(a)
+print("The number is", a)
