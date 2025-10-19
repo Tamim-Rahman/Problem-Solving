@@ -1,0 +1,15 @@
+#Problem
+#Get first character of a string and print it
+
+#Solution
+
+word = input("Enter any word: ")
+
+print(word[0:4])    # from index 0 to 4
+print(word[:5])     # from starting to 5
+print(word[9:])     # from 9 to end
+print(word[-7:])    # last 7 character 
+print(word[-5])     # last only -5 number character
+print(word[4])      # first only 4 number character
+print(word[::3])    # Every 3rd character
+print(word[::-1])   # Reverse string
