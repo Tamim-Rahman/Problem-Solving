@@ -14,6 +14,6 @@ print(d)
 x = float(input("Enter first number: "))
 y = float(input("Enter second number: "))
 z = float(input("Enter third number: "))
-t = float(input("Enter the devidation number: "))
 
-print(f'The average of {x}, {y}, and {z} is: {(x + y + z) / t:.2f}')
+
+print(f'The average of {x}, {y}, and {z} is: {(x + y + z) / 33:.2f}')
