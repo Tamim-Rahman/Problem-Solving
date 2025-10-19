@@ -1,0 +1,10 @@
+#Problem
+#Concatenate "Hello" and "World" with space
+
+
+#Solutioin
+a = input('Tell me "Hello": ')
+b = input('Tell me "World": ')
+
+print(a+" "+b)
+print(f"{a} {b}")
